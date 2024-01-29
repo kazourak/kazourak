@@ -1,4 +1,3 @@
-![](assets/Snap.png)
 
 # <img src="assets/42.png" width="42px" align="top"> Hello, World!
 I'm [Nolan Skiba](https://www.linkedin.com/in/nolan-skiba-35b3b8279/), a 19-year-old French student at [42](http://42angouleme.fr/). I began coding when I was 15, primarily focusing on Java programming and web development.
